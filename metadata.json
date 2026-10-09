@@ -1,0 +1,6 @@
+{
+  "name": "Campus Helpdesk AI",
+  "description": "Multi-Agent Campus Helpdesk Resolution System providing intelligent issue classification, automated department routing, verified knowledge retrieval, priority assessment, follow-up tracking, and escalation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
